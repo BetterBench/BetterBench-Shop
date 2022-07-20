@@ -1,4 +1,4 @@
-# 通过CTRL+F查找付费内容下载链接
+# 通过CTRL+F查找内容下载链接
 ## 2021年
 
 1. [深度学习、优化算法、MATLAB编程、Python编程、Pytorch、Tensorflow框架、Linux系统付费咨询](https://mianbaoduo.com/o/bread/mbd-YZ6Yk5xw)

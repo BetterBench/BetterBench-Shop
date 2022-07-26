@@ -11,10 +11,10 @@
 1. [2021 APMCM亚太杯 A题 图像边缘分析与应用 39页一等奖论文](https://mianbaoduo.com/o/bread/mbd-YpaUm5hx)
 1. [【2021 年 MathorCup 高校数学建模挑战赛-赛道A二手车估价】初赛的40页论文和代码](https://mianbaoduo.com/o/bread/mbd-YpeVm5hx)
 1. [【2021 年 MathorCup 高校数学建模挑战赛-赛道A二手车估价】复赛42页论文和代码](https://mianbaoduo.com/o/bread/mbd-YpiZk59p)  
-1. [【2022美赛 C题 交易策略】Python实现的预测和动态规划方案](https://mianbaoduo.com/o/bread/Ypecmp1y)
 # 2022年
 
-1. [【2022 年第十二届 MathorCup杯数学建模】D 题 移动通信网络站址规划和区域聚类问题-优秀论文及代码](https://mianbaoduo.com/o/bread/mbd-YpmZkp9w)
+1. [【2022 年第十二届 MathorCup杯数学建模】D 题 移动通信网络站址规划和区域聚类问题-优秀论文及代码](https://mianbaoduo.com/o/bread/mbd-YpmZkp9w)  
+1. [【2022美赛 C题 交易策略】Python实现的预测和动态规划方案](https://mianbaoduo.com/o/bread/Ypecmp1y)  
 1. [【2022泰迪杯-B题全家桶】电力系统负荷预测分析](https://mianbaoduo.com/o/bread/mbd-YpmblZxy)
 1. [【第十届“泰迪杯”】B题：电力系统负荷预测分析 问题一 Python实现的Baseline](https://mianbaoduo.com/o/bread/mbd-YpiVmppq)
 1. [【第十届“泰迪杯”】B题：电力系统负荷预测分析 问题一ARIMA、AutoARIMA、LSTM、Prophet 实现](https://mianbaoduo.com/o/bread/mbd-YpiZmp9v)

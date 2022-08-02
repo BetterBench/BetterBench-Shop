@@ -26,5 +26,5 @@
 
 ---
 # 2022 钉钉杯  
-## 1. [【钉钉杯大学生大数据挑战赛】初赛 A：银行卡电信诈骗危险预测 代码](https://mianbaoduo.com/o/bread/Yp2Tl5hw)  
+## 1. [【钉钉杯大学生大数据挑战赛】初赛 A：银行卡电信诈骗危险预测 代码](https://mianbaoduo.com/o/bread/mbd-Yp2Wm5lx)  
 ## 2. [【钉钉杯大学生大数据挑战赛】初赛B 航班数据分析与预测 Python代码实现](https://mianbaoduo.com/o/bread/Yp2Tm5hx)

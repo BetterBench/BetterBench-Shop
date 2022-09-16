@@ -27,6 +27,6 @@
 2. [【钉钉杯大学生大数据挑战赛】初赛B 航班数据分析与预测 Python代码实现](https://mianbaoduo.com/o/bread/Yp2Tm5hx)
 
 ---
-# 2022 钉钉杯  
+# 2022 本科生高教社杯数学建模
 ## 1. [【2022高教社杯数学建模】C题：古代玻璃制品的成分分析与鉴别 方案及代码实现](https://mianbaoduo.com/o/bread/mbd-Y5acmpdu)  
 

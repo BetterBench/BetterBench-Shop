@@ -23,8 +23,10 @@
 1. [【2022 年“SPSSPRO 杯”数学中国数学建模网络挑战赛】A题 人员的紧急疏散-第二阶段23页论文](https://mianbaoduo.com/o/bread/mbd-YpqZlJ9q)
 1. [【2022-SPSSPRO杯数学建模】C题污水流行病学原理在新冠疫情防控方面的作用 30页二等奖论文及代码](https://mianbaoduo.com/o/bread/mbd-YpmWmZ9s)
 1. [【2022年江西省研究生数学建模】水汽过饱和的核化除霾 31页论文](https://mianbaoduo.com/o/bread/mbd-Ypybl5ps)
+1. [【钉钉杯大学生大数据挑战赛】初赛 A：银行卡电信诈骗危险预测 代码](https://mianbaoduo.com/o/bread/mbd-Yp2Wm5lx)  
+2. [【钉钉杯大学生大数据挑战赛】初赛B 航班数据分析与预测 Python代码实现](https://mianbaoduo.com/o/bread/Yp2Tm5hx)
 
 ---
 # 2022 钉钉杯  
-## 1. [【钉钉杯大学生大数据挑战赛】初赛 A：银行卡电信诈骗危险预测 代码](https://mianbaoduo.com/o/bread/mbd-Yp2Wm5lx)  
-## 2. [【钉钉杯大学生大数据挑战赛】初赛B 航班数据分析与预测 Python代码实现](https://mianbaoduo.com/o/bread/Yp2Tm5hx)
+## 1. [【2022高教社杯数学建模】C题：古代玻璃制品的成分分析与鉴别 方案及代码实现](https://mianbaoduo.com/o/bread/mbd-Y5acmpdu)  
+

@@ -1,10 +1,10 @@
 # 通过CTRL+F查找内容下载链接
 
 # 2022年
+# [2022年第十一届认证杯数学中国数学建模国际赛小美赛：D题野生动物贸易是否应该长期禁止建模方案及代码实现](https://mbd.pub/o/bread/Y5yclpxv)
+> https://mbd.pub/o/bread/Y5yclpxv
 
-# [2022年第十二届APMCM亚太地区大学生数学建模竞赛C题全球变暖](https://mbd.pub/o/bread/mbd-Y5yYmpZs)
-> https://mbd.pub/o/bread/mbd-Y5yYmpZs
-
+1. [2022年第十二届APMCM亚太地区大学生数学建模竞赛C题全球变暖](https://mbd.pub/o/bread/mbd-Y5yYmpZs)
 1. [【2022 年第十二届 MathorCup杯数学建模】D 题 移动通信网络站址规划和区域聚类问题-优秀论文及代码](https://mbd.pub/o/bread/mbd-YpmZkp9w)  
 1. [【2022美赛 C题 交易策略】Python实现的预测和动态规划方案](https://mianbaoduo.com/o/bread/Ypecmp1y)  
 1. [【2022泰迪杯-B题全家桶】电力系统负荷预测分析](https://mbd.pub/o/bread/mbd-YpmblZxy)

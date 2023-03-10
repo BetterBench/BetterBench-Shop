@@ -1,11 +1,11 @@
 # 通过CTRL+F查找内容下载链接
 店铺链接：https://www.betterbench.top/#/
-# 2022年 进行中
-# [2022年第三届MathorCup高校数学建模挑战赛——大数据竞赛 赛道B 北京移动用户体验影响因素研究 建模方案及代码实现](https://www.betterbench.top/#/17/detail)
-> [https://www.betterbench.top/#/17/detail](https://www.betterbench.top/#/17/detail)
+# 2023进行中
+# 有想代做或者，需要辅导的，请加我QQ：823316627
+
 
 # 2022 已结束
-
+1. [2022年第三届MathorCup高校数学建模挑战赛——大数据竞赛 赛道B 北京移动用户体验影响因素研究 建模方案及代码实现](https://www.betterbench.top/#/17/detail)
 1. [2022年第十一届认证杯数学中国数学建模国际赛小美赛：D题野生动物贸易是否应该长期禁止建模方案及代码实现](https://www.betterbench.top/#/28/detail)
 1. [2022年第十一届认证杯数学中国数学建模国际赛小美赛：C题 对人类活动进行分类](https://www.betterbench.top/#/29/detail)
 1. [2022年第十二届APMCM亚太地区大学生数学建模竞赛C题全球变暖 27页一等奖中文论文](https://www.betterbench.top/#/15/detail)

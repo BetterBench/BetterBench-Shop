@@ -2,6 +2,10 @@
 
 # 进群获取资料：936670395
 
+
+2024美赛C题：https://www.betterbench.top/#/130/detail
+
+
 # 2023 年
 博客专栏：[http://t.csdnimg.cn/95yG7](http://t.csdnimg.cn/95yG7)
 

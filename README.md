@@ -1,8 +1,5 @@
 # 2024年美赛进行中
 
-# 进群获取资料：936670395
-
-
 2024美赛C题：https://www.betterbench.top/#/130/detail
 
 

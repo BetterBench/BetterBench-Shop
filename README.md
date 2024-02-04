@@ -1,6 +1,8 @@
 # 2024年美赛进行中
 
-2024美赛C题：https://www.betterbench.top/#/130/detail
+2024美赛C题代码及文档：https://www.betterbench.top/#/130/detail
+
+2024美赛C题26页中文论文：https://www.betterbench.top/#/131/detail
 
 
 # 2023 年

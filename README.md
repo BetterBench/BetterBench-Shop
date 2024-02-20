@@ -2,7 +2,9 @@
 
 2024美赛C题代码及文档：https://www.betterbench.top/#/130/detail
 
-2024美赛C题26页中文论文：https://www.betterbench.top/#/134/detail
+2024美赛C题26页中文论文：https://www.betterbench.top/#/134/detail（初期版）
+
+2024美赛C题25页中英文论文及代码：https://www.betterbench.top/#/135/detail（完整版）
 
 
 # 2023 年
